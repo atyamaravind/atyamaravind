@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and development.
 - 🌱 I’m currently learning CSE BTech.
 - 💞️ I’m looking to collaborate on coding.
-- 📫 How to reach me atyamaravind+github@gmail.com 
+- 📫 How to reach me atyamaravind17+github@gmail.com 
 
 <!---
 atyamaravind/atyamaravind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
